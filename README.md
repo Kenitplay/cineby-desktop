@@ -16,3 +16,8 @@ Cineby Desktop is a standalone desktop application that wraps the Cineby web exp
 - **Faster Performance** - Optimized loading times and smoother navigation
 - **Offline Capabilities** - Cache content and continue browsing without internet
 - **Distraction-Free Mode** - Immersive full-screen viewing with minimal UI
+
+## 🛠️ Built With
+
+- **Electron** - Cross-platform desktop application framework
+- **JavaScript** - Core programming language
